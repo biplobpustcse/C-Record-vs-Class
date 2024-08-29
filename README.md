@@ -1,4 +1,4 @@
-# C-Record-vs-Class
+# C#-Record-vs-Class
 In C#, both record and class are reference types, but they have different purposes and behaviors. Here's a comparison between the two:
 
 1. Purpose and Use Cases
